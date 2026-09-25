@@ -5,6 +5,8 @@ namespace CandyOrg.Auth.Common;
 [JsonConverter(typeof(JsonStringEnumConverter))]
 public enum UserRoles
 {
-    User,
-    Admin
+    Manager,
+    Dispatcher,
+    Coordinator,
+    Driver
 }
