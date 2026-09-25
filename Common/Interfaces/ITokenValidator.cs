@@ -1,6 +1,6 @@
-﻿using Core.Auth.Tokens;
+﻿using CandyOrg.Auth.Tokens;
 
-namespace Core.Auth.Common.Interfaces;
+namespace CandyOrg.Auth.Common.Interfaces;
 
 public interface ITokenValidator
 {

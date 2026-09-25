@@ -1,7 +1,7 @@
 ﻿using System.Text;
 using Microsoft.IdentityModel.Tokens;
 
-namespace Core.Auth.Common.Settings;
+namespace CandyOrg.Auth.Common.Settings;
 
 public class JwtSettings
 {

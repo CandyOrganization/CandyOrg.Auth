@@ -1,4 +1,4 @@
-﻿namespace Core.Auth.Exceptions;
+﻿namespace CandyOrg.Auth.Exceptions;
 
 public class TokenInvalidException(string message) : Exception
 {

@@ -1,8 +1,8 @@
-﻿using Core.Auth.Common.Interfaces;
-using Core.Auth.Common.Settings;
-using Core.Auth.Exceptions;
+﻿using CandyOrg.Auth.Common.Interfaces;
+using CandyOrg.Auth.Common.Settings;
+using CandyOrg.Auth.Exceptions;
 
-namespace Core.Auth.Tokens;
+namespace CandyOrg.Auth.Tokens;
 
 public class TokenValidator : ITokenValidator
 {

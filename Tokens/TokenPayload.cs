@@ -1,7 +1,7 @@
 ﻿using System.Text.Json.Serialization;
-using Core.Auth.Common;
+using CandyOrg.Auth.Common;
 
-namespace Core.Auth.Tokens;
+namespace CandyOrg.Auth.Tokens;
 
 public class TokenPayload
 {

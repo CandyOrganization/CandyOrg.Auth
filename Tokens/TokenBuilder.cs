@@ -1,10 +1,9 @@
 ﻿using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
-using Core.Auth.Common;
-using Core.Auth.Common.Settings;
+using CandyOrg.Auth.Common.Settings;
 using Microsoft.IdentityModel.Tokens;
 
-namespace Core.Auth.Tokens;
+namespace CandyOrg.Auth.Tokens;
 
 public class TokenBuilder
 {

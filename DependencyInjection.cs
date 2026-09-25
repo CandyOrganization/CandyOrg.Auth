@@ -1,9 +1,9 @@
-﻿using Core.Auth.Common.Settings;
-using Core.Auth.Tokens;
+﻿using CandyOrg.Auth.Common.Settings;
+using CandyOrg.Auth.Tokens;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace Core.Auth;
+namespace CandyOrg.Auth;
 
 public static class DependencyInjection
 {

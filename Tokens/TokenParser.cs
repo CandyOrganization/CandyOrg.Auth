@@ -1,8 +1,8 @@
 ﻿using System.Text;
 using System.Text.Json;
-using Core.Auth.Exceptions;
+using CandyOrg.Auth.Exceptions;
 
-namespace Core.Auth.Tokens;
+namespace CandyOrg.Auth.Tokens;
 
 public static class TokenParser
 {
